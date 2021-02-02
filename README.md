@@ -9,3 +9,4 @@ markdown syntax for
 __cse__
 *cse*
 _cse_
+_*cse*_
