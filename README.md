@@ -65,9 +65,9 @@ Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown 
 _ cse
 _ ece
 _ mech
-    _ mech a
-    _ mech b
+    * mech a
+    * mech b
 _ civil
-    _ civil a
-    _ civil b
+    * civil a
+    * civil b
     
