@@ -62,12 +62,12 @@ Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown 
 4. cec
 5. bipc
 ## unordered list
-_ cse
-_ ece
-_ mech
+- cse
+- ece
+- mech
     * mech a
     * mech b
-_ civil
+- civil
     * civil a
     * civil b
     
