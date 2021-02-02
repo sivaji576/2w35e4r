@@ -7,3 +7,5 @@ markdown syntax for
 # bold and italic formats
 **cse**
 __cse__
+*cse*
+_cse_
