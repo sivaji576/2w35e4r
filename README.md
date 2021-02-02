@@ -79,3 +79,6 @@ def fun():
 ```
 fun()
 ````
+`
+printf("darling")
+`
