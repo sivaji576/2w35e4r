@@ -71,6 +71,11 @@ Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown 
     * civil a
     * civil b
 ## coding
+
 ```
-print("bb3")
+def fun():    
+    print("bb3")
+````
 ```
+fun()
+````
